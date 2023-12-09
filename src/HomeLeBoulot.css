@@ -1,0 +1,5 @@
+.header{
+    flex-shrink: 0;
+    background: var(--lights-gray, #F8F8FD);
+    margin: 0;
+}
